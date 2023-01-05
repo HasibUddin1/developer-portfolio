@@ -198,12 +198,12 @@ main {
 .info-form{
     gap: 24px;
 }
-.contact input, textarea{
+.contact input[type="text"], input[type="email"], textarea{
     margin-bottom: 24px;
     border: none;
-    width: 200px;
+    width: 100%;
     padding: 18px 30px;
 }
-input{
+input[type="text"], input[type="email"]{
     height: 64px;
 }
