@@ -179,3 +179,31 @@ main {
     text-align: center;
     margin-bottom: 50px;
 }
+/* footer design */
+.footer{
+    text-align: left;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.contact{
+    background-color: #fff8f3;
+    display: flex;
+    gap: 150px;
+    padding: 130px 200px;
+}
+.footer-paragraph{
+    margin-bottom: 10px;
+}
+.info-form{
+    gap: 24px;
+}
+.contact input, textarea{
+    margin-bottom: 24px;
+    border: none;
+    width: 200px;
+    padding: 18px 30px;
+}
+input{
+    height: 64px;
+}
