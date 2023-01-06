@@ -187,10 +187,11 @@ main {
     margin-bottom: 10px;
 }
 .contact{
-    background-color: #fff8f3;
+    background-color: #f5d5bd;
     display: flex;
     gap: 150px;
     padding: 130px 200px;
+    border-radius: 20px;
 }
 .footer-paragraph{
     margin-bottom: 10px;
